@@ -11134,7 +11134,7 @@ const th = new Date("2024-04-13T00:00:00"),
             n = t.value.getContext("2d");
           e.value = Math.floor((new Date() - th) / 12e3);
           const o = {
-              labels: ["KAI", "POM", "PIL"],
+              labels: ["GPU4", "POM", "PIL"],
               datasets: [
                 {
                   label: "Donut Chart",
@@ -11205,7 +11205,7 @@ const th = new Date("2024-04-13T00:00:00"),
   ),
   oh = { class: "h-56 w-full md:w-1/2 xl:w-1/4 p-5 2xl:px-10" },
   rh = { class: "bg-sec py-4 px-7 rounded-xl h-full" },
-  ah = P("div", { class: "text-2xl opacity-50" }, "$KAI Earned", -1),
+  ah = P("div", { class: "text-2xl opacity-50" }, "$GPU4 Earned", -1),
   lh = P("div", { class: "text-5xl text-center p-5" }, "0", -1),
   ch = { class: "flex justify-between w-full" },
   hh = {

@@ -1434,3 +1434,7 @@ video {
 #app > div.pt-36.text-white.w-full > div.flex.flex-wrap.w-full.relative.px-5.\32 xl\:px-10.py-10 {
     display: none !important;
 }
+
+#app > div:nth-child(2) > div.fixed.inset-y-0.left-0.w-64.bg-sec.slide-in-left > ul > li:nth-child(2) {
+  display: none !important;
+}
